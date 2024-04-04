@@ -8,6 +8,5 @@ This is simple password generatio  application developed using React.
 - select password length (8-25)
 
 # To Try
--install dependencies (vite,tailwind)
-
--run (npm run dev)
+- install dependencies (vite,tailwind)
+- run (npm run dev)
