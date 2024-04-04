@@ -9,4 +9,5 @@ This is simple password generatio  application developed using React.
 
 # To Try
 -install dependencies (vite,tailwind)
+
 -run (npm run dev)
